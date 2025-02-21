@@ -1,4 +1,6 @@
-<h2 align="left">Hi my name is Cesar Zapata and I'm a informatic engineer , from Ecuador.</h2>
+<h2 align="left">Hi there, I'm Cesarbmm! 👋
+
+I'm a passionate software developer with a keen interest in open-source projects and innovative technologies. I love to solve complex problems and contribute to the developer community.</h2>
 
 ###
 
@@ -34,4 +36,21 @@
 </div>
 
 ###
+
+## 🚀 Projects
+
+Here are a few projects I've worked on:
+
+- **[Awesome Project 1](https://github.com/Cesarbmm/Proyecto-Busquedas-Ordenamiento.git)**: Algoriths of searching
+- **[Awesome Project 2](https://github.com/Cesarbmm/PROYECTRO-EXTRA-modificado.git)**: Trees 
+
+## 📫 How to reach me
+
+- **Email**: fonfini123@gmail.com
+- **LinkedIn**: [Cesarbmm](https://www.linkedin.com/in/cesarbmm)
+## 📈 GitHub Stats
+
+![Cesarbmm's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cesarbmm&show_icons=true&theme=radical)
+
+
 

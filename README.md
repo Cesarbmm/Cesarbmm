@@ -33,14 +33,6 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Cesarbmm">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Cesarbmm&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ294cHVpNjF0ZTUzaDdkZWw3c3U4anVmeGV0aHdvNWxqampkdzIxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j4sGfjXs2e0Du/giphy.gif"  />
 </div>
 

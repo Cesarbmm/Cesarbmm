@@ -54,5 +54,8 @@ Here are a few projects I've worked on:
 
 ![Cesarbmm's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cesarbmm&show_icons=true&theme=radical)
 
+## 🧠 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cesarbmm&layout=compact&theme=radical)
 
 

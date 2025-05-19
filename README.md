@@ -1,24 +1,50 @@
-<h2 align="left">Hi there, I'm Cesarbmm! 👋
+<h2 align="left">Hi there, I'm Cesarbmm! 👋</h2>
 
-I'm a passionate software developer with a keen interest in open-source projects and innovative technologies. I love to solve complex problems and contribute to the developer community.</h2>
+I'm a passionate software developer with a keen interest in open-source projects and innovative technologies.  
+I enjoy solving complex problems and contributing to the developer community.
 
-###
+---
+
+## 💻 Technologies I Use
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
 </div>
 
-###
+---
+
+## 🧠 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cesarbmm&layout=compact&theme=radical)
+
+---
+
+## 🚀 Projects
+
+Here are a few projects I've worked on:
+
+- 🔍 **[Sorting Algorithms](https://github.com/Cesarbmm/Proyecto-Busquedas-Ordenamiento.git)**
+- 🌲 **[Tree Structures](https://github.com/Cesarbmm/PROYECTRO-EXTRA-modificado.git)**
+- 📱 **[Personal App](https://github.com/Cesarbmm/Aplicacion-Personal.git)**
+
+---
+
+## 📫 How to reach me
+
+- 📧 **Email**: fonfini123@gmail.com  
+- 💼 **LinkedIn**: [Cesarbmm](https://www.linkedin.com/in/cesarbmm)  
+- 📺 **YouTube**: [@Cesarbmm](https://www.youtube.com/@Cesarbmm)  
+- 📷 **Instagram**: [@cesarbmk](https://www.instagram.com/cesarbmk/)
 
 <div align="left">
   <a href="https://www.youtube.com/@Cesarbmm" target="_blank">
@@ -29,33 +55,15 @@ I'm a passionate software developer with a keen interest in open-source projects
   </a>
 </div>
 
-###
+---
 
 <div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ294cHVpNjF0ZTUzaDdkZWw3c3U4anVmeGV0aHdvNWxqampkdzIxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j4sGfjXs2e0Du/giphy.gif"  />
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ294cHVpNjF0ZTUzaDdkZWw3c3U4anVmeGV0aHdvNWxqampkdzIxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j4sGfjXs2e0Du/giphy.gif" />
 </div>
 
-###
+---
 
-## 🚀 Projects
-
-Here are a few projects I've worked on:
-
-- **[Awesome Project 1](https://github.com/Cesarbmm/Proyecto-Busquedas-Ordenamiento.git)**: Sorting algorithms 
-- **[Awesome Project 2](https://github.com/Cesarbmm/PROYECTRO-EXTRA-modificado.git)**: Trees
-- **[Awesome Project 3](https://github.com/Cesarbmm/Aplicacion-Personal.git)**: Personal Aplication
-
-
-## 📫 How to reach me
-
-- **Email**: fonfini123@gmail.com
-- **LinkedIn**: [Cesarbmm](https://www.linkedin.com/in/cesarbmm)
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 ![Cesarbmm's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cesarbmm&show_icons=true&theme=radical)
-
-## 🧠 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cesarbmm&layout=compact&theme=radical)
-
 

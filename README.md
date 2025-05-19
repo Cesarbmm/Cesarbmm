@@ -42,7 +42,9 @@ I'm a passionate software developer with a keen interest in open-source projects
 Here are a few projects I've worked on:
 
 - **[Awesome Project 1](https://github.com/Cesarbmm/Proyecto-Busquedas-Ordenamiento.git)**: Sorting algorithms 
-- **[Awesome Project 2](https://github.com/Cesarbmm/PROYECTRO-EXTRA-modificado.git)**: Trees 
+- **[Awesome Project 2](https://github.com/Cesarbmm/PROYECTRO-EXTRA-modificado.git)**: Trees
+- **[Awesome Project 3](https://github.com/Cesarbmm/Aplicacion-Personal.git)**: Personal Aplication
+
 
 ## 📫 How to reach me
 

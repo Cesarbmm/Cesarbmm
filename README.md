@@ -1,64 +1,75 @@
-<h2 align="left">Hi there, I'm Cesarbmm! 👋</h2>
-
-I'm a passionate software developer with a keen interest in open-source projects and innovative technologies.  
-I enjoy solving complex problems and contributing to the developer community.
+<!-- Banner opcional con una imagen personalizada o tu nombre en estilo ASCII -->
+<h1 align="center">👋 Hi, I'm César Zapata (Cesarbmm)</h1>
+<h3 align="center">Computer Science Engineering Student @ Escuela Politécnica Nacional - Ecuador</h3>
 
 ---
 
-## 💻 Technologies I Use
+## 🚀 About Me
+- 🎓 Currently studying **Computer Science Engineering** at **Escuela Politécnica Nacional (EPN) - Ecuador**.  
+- 💻 Passionate about **software development, open-source, and innovative technologies**.  
+- 🧩 I enjoy solving complex problems and learning new concepts every day.  
+- 🌱 Exploring **AI, algorithms, databases, and distributed systems**.  
+- 🎯 My goal: **Build impactful solutions that combine creativity and technology**.  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
+---
+
+## 🛠️ Technologies & Tools
+
+<div align="center">
+  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+
 </div>
 
 ---
 
-## 🧠 Most Used Languages
+## 📌 Projects Highlights
+- 🔍 **Sorting Algorithms Visualizer** → GUI-based tool to visualize different sorting techniques.  
+- 🌲 **Tree Structures Implementation** → Data structures from scratch in C++ and Java.  
+- 📱 **Personal Mobile App** → Small productivity tool with Java & SQLite.  
+- 🔇 **Cyberbullying Detector** → NLP-based project to detect toxic content online.  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cesarbmm&layout=compact&theme=radical)
-
----
-
-## 🚀 Projects
-
-Here are a few projects I've worked on:
-
-- 🔍 **[Sorting Algorithms](https://github.com/Cesarbmm/Proyecto-Busquedas-Ordenamiento.git)**
-- 🌲 **[Tree Structures](https://github.com/Cesarbmm/PROYECTRO-EXTRA-modificado.git)**
-- 📱 **[Personal App](https://github.com/Cesarbmm/Aplicacion-Personal.git)**
+*(Check out more in the repositories 👇)*  
 
 ---
 
-## 📫 How to reach me
+## 📊 GitHub Stats
+<div align="center">
 
-- 📧 **Email**: fonfini123@gmail.com  
-- 💼 **LinkedIn**: [Cesarbmm](https://www.linkedin.com/in/cesarbmm)  
-- 📺 **YouTube**: [@Cesarbmm](https://www.youtube.com/@Cesarbmm)  
-- 📷 **Instagram**: [@cesarbmk](https://www.instagram.com/cesarbmk/)
+![](https://github-readme-stats.vercel.app/api?username=cesarbmm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarbmm&layout=compact&theme=tokyonight&hide_border=true)
 
-<div align="left">
-  <a href="https://www.youtube.com/@Cesarbmm" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=ef9813&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/cesarbmk/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=2e0943&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
+</div>
+
+---
+
+## 🌐 Connect With Me
+<div align="center">
+  
+<a href="mailto:fonfini123@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/cesarbmm" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/@Cesarbmm" target="_blank">
+<img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/cesarbmk/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
 </div>
 
 ---
 
 <div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ294cHVpNjF0ZTUzaDdkZWw3c3U4anVmeGV0aHdvNWxqampkdzIxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j4sGfjXs2e0Du/giphy.gif" />
+  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>  
 </div>
-
----
-
-## 📊 GitHub Stats
-
-![Cesarbmm's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cesarbmm&show_icons=true&theme=radical)
 

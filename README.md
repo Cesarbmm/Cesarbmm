@@ -48,15 +48,23 @@
 | <a href="https://github.com/Cesarbmm/Detector-Ciberacoso"><b>Cyberbullying Detector</b></a> | **NLP Classification Pipeline.** An automated system utilizing Natural Language Processing to detect and filter toxic speech in digital text streams. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI-Model-blue) |
 | <a href="https://github.com/Cesarbmm/Aplicacion-Personal"><b>Personal LifeOS & Backpack</b></a> | **Comprehensive Management Ecosystem.** An Android suite featuring modules for gym tracking, creative writing, and a "Digital Backpack" for organizing university academic resources. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) |
 | <a href="https://github.com/Cesarbmm/Proyecto-Busquedas-Ordenamiento"><b>Sorting Engine GUI</b></a> | **Algorithm Visualization Tool.** A graphical interface designed to render the execution steps of complex sorting algorithms (QuickSort, MergeSort) for complexity analysis. | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Swing](https://img.shields.io/badge/Swing-GUI-red) |
-| <a href="https://github.com/Cesarbmm/PROYECTRO-EXTRA-modificado"><b>Data Structures Core</b></a> | **Low-Level Implementation.** A C++ library built from scratch containing optimized B-Trees, AVL Trees, and Graphs, focusing on memory efficiency ($O(n)$). | ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) ![Memory](https://img.shields.io/badge/Memory-Alloc-green) |
+| <a href="https://github.com/Cesarbmm/PROYECTRO-EXTRA-modificado"><b>Data Structures Core</b></a> | **Low-Level Implementation.** A C++ library built from scratch containing optimized B-Trees, AVL Trees, and Graphs, focusing on memory efficiency (O(n)). | ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) ![Memory](https://img.shields.io/badge/Memory-Alloc-green) |
 
 <br>
 
 ### `// GITHUB ANALYTICS`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cesarbmm&show_icons=true&theme=midnight-owl&hide_border=true&count_private=true&bg_color=0d1117" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarbmm&layout=compact&theme=midnight-owl&hide_border=true&bg_color=0d1117&langs_count=6" height="150" alt="languages graph" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Cesarbmm&show_icons=true&theme=midnight-owl&hide_border=true&count_private=true&bg_color=0d1117&cache_seconds=1800"
+    height="150"
+    alt="GitHub statistics"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesarbmm&layout=compact&theme=midnight-owl&hide_border=true&bg_color=0d1117&langs_count=6&cache_seconds=1800"
+    height="150"
+    alt="Most used programming languages"
+  />
 </div>
 
 <br>

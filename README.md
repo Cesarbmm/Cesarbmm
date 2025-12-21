@@ -35,7 +35,14 @@
 - 📱 **Personal Mobile App** → Small productivity tool with Java & SQLite.  
 - 🔇 **Cyberbullying Detector** → NLP-based project to detect toxic content online.  
 
-*(Check out more in the repositories 👇)*  
+### 📌 Featured Projects
+
+| Project & Link | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🔇 <a href="https://github.com/Cesarbmm/Detector-Ciberacoso"><b>Cyberbullying Detector</b></a> | An **NLP-based classification model** designed to identify and filter toxic content/hate speech in text streams with high accuracy. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/sklearn-F7931E?logo=scikit-learn&logoColor=white) |
+| 🔍 <a href="https://github.com/Cesarbmm/Proyecto-Busquedas-Ordenamiento"><b>Sorting Visualizer</b></a> | Interactive **GUI application** that demonstrates the execution flow of algorithms (QuickSort, MergeSort) for educational analysis. | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Swing](https://img.shields.io/badge/Swing-GUI-red) |
+| 🌲 <a href="https://github.com/Cesarbmm/PROYECTRO-EXTRA-modificado"><b>Data Structures Core</b></a> | Low-level implementation of **AVL Trees, B-Trees, and Graphs** from scratch, focusing on memory management and algorithmic complexity ($O(n)$). | ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) ![Algorithms](https://img.shields.io/badge/Algo-DataStruct-green) |
+| 📱 <a href="https://github.com/Cesarbmm/Aplicacion-Personal"><b>Productivity App</b></a> | Native Android solution for task management featuring **local persistence via SQLite** and custom CRUD operations. | ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) |
 
 ---
 

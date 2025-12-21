@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <sub><em>Software Engineering • Data Science • Distributed Systems</em></sub>
+  <sub><em>Computer Science Engineer • Data Science • Distributed Systems</em></sub>
 </div>
 
 <br>
@@ -55,16 +55,12 @@
 ### `// GITHUB ANALYTICS`
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Cesarbmm&show_icons=true&theme=midnight-owl&hide_border=true&count_private=true&bg_color=0d1117&cache_seconds=1800"
-    height="150"
-    alt="GitHub statistics"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesarbmm&layout=compact&theme=midnight-owl&hide_border=true&bg_color=0d1117&langs_count=6&cache_seconds=1800"
-    height="150"
-    alt="Most used programming languages"
-  />
+  
+![](https://github-readme-stats.vercel.app/api?username=Cesarbmm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=1)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cesarbmm&layout=compact&theme=tokyonight&hide_border=true&v=1)
+
+
 </div>
 
 <br>

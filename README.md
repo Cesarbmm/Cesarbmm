@@ -1,58 +1,221 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=C%C3%A9sar+Zapata;Computer+Science+Student+%40+EPN;Building+Robust+Software+Solutions" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=900&color=A855F7&center=true&vCenter=true&width=720&lines=C%C3%A9sar+Zapata;Computer+Science+Engineering+Student+%40+EPN;AI+%7C+Data+Structures+%7C+Distributed+Systems;Building+software;Imagination+can+compile+too." alt="Typing SVG" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Linux%20Mindset-0D1117?style=for-the-badge&logo=linux&logoColor=A855F7" />
+<img src="https://img.shields.io/badge/Code%20Style-Terminal%20Driven-7C3AED?style=for-the-badge&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/EPN-Computer%20Science-9333EA?style=for-the-badge&logo=academia&logoColor=white" />
+
 </div>
+
+<br>
+
+```bash
+cesar@epn:~$ whoami
+Computer Science Engineering student focused on AI, data structures,
+distributed systems, backend development and clean software design.
+
+cesar@epn:~$ cat mindset.txt
+> Build simple.
+> Think deeply.
+> Optimize later.
+> Never stop learning.
+```
+
+---
+
+## `// ABOUT_ME`
+
+I am **César Zapata**, a Computer Science Engineering student at **Escuela Politécnica Nacional (EPN)**, Ecuador.  
+I enjoy building software that connects theory with real implementation: from **algorithms and data structures** to **AI models, backend systems, Linux tools and distributed applications**.
+
+My current focus is on writing cleaner code, understanding system-level behavior, and creating projects that are useful, technical and well documented.
+
+<br>
 
 <div align="center">
-  <sub><em>Computer Science Engineer • Data Science • Distributed Systems</em></sub>
+
+`Linux` • `Artificial Intelligence` • `Data Structures` • `Java` • `C++` • `Python` • `Databases` • `Distributed Systems`
+
 </div>
 
-<br>
+---
 
-### `// INTRO`
-
-> I am a Computer Science Engineering student at **Escuela Politécnica Nacional (EPN)** based in Ecuador. My focus shifts from writing clean code to designing scalable architectures. I am driven by the complexity of **Algorithms, AI models, and System optimization**.
-
-<br>
-
-### `// TECHNICAL STACK`
+## `// TECH_STACK`
 
 <div align="center">
 
-**Languages**<br>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/gnu%20bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### `Languages`
 
-**Data & AI**<br>
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<img src="https://img.shields.io/badge/Java-7C3AED?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-6D28D9?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-8B5CF6?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-9333EA?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4C1D95?style=for-the-badge&logo=gnubash&logoColor=white" />
 
-**Infrastructure & Tools**<br>
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+### `Data / AI`
+
+<img src="https://img.shields.io/badge/Pandas-312E81?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-4338CA?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-6D28D9?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-7E22CE?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+
+### `Tools / Environment`
+
+<img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=A855F7" />
+<img src="https://img.shields.io/badge/Git-581C87?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4C1D95?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Android%20Studio-6B21A8?style=for-the-badge&logo=androidstudio&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-7C3AED?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
 </div>
 
-<br>
+---
 
-### `// FEATURED REPOSITORIES`
+## `// FEATURED_PROJECTS`
 
-| Repository | Technical Description | Stack |
-| :--- | :--- | :--- |
-| <a href="https://github.com/Cesarbmm/Detector-Ciberacoso"><b>Cyberbullying Detector</b></a> | **NLP Classification Pipeline.** An automated system utilizing Natural Language Processing to detect and filter toxic speech in digital text streams. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI-Model-blue) |
-| <a href="https://github.com/Cesarbmm/Aplicacion-Personal"><b>Personal LifeOS & Backpack</b></a> | **Comprehensive Management Ecosystem.** An Android suite featuring modules for gym tracking, creative writing, and a "Digital Backpack" for organizing university academic resources. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) |
-| <a href="https://github.com/Cesarbmm/Proyecto-Busquedas-Ordenamiento"><b>Sorting Engine GUI</b></a> | **Algorithm Visualization Tool.** A graphical interface designed to render the execution steps of complex sorting algorithms (QuickSort, MergeSort) for complexity analysis. | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Swing](https://img.shields.io/badge/Swing-GUI-red) |
-| <a href="https://github.com/Cesarbmm/PROYECTRO-EXTRA-modificado"><b>Data Structures Core</b></a> | **Low-Level Implementation.** A C++ library built from scratch containing optimized B-Trees, AVL Trees, and Graphs, focusing on memory efficiency (O(n)). | ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) ![Memory](https://img.shields.io/badge/Memory-Alloc-green) |
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🧠 Cyberbullying Detector</h3>
+      <p>
+        NLP-oriented project focused on detecting harmful or toxic text patterns.
+        It connects machine learning concepts with a real social problem.
+      </p>
+      <p>
+        <a href="https://github.com/Cesarbmm/Detector-Ciberacoso">
+          <img src="https://img.shields.io/badge/View_Repo-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-4C1D95?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/NLP-9333EA?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI-6D28D9?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🏥 Proyecto Hospital</h3>
+      <p>
+        Application project oriented to hospital management logic,
+        useful for practicing software structure, data handling and CRUD design.
+      </p>
+      <p>
+        <a href="https://github.com/Cesarbmm/Proyecto-Hospital">
+          <img src="https://img.shields.io/badge/View_Repo-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Software-4C1D95?style=flat-square" />
+        <img src="https://img.shields.io/badge/Database-9333EA?style=flat-square" />
+        <img src="https://img.shields.io/badge/CRUD-6D28D9?style=flat-square" />
+      </p>
+    </td>
+  </tr>
 
-<br>
+  <tr>
+    <td width="50%">
+      <h3>👕 Clothing Segmentation</h3>
+      <p>
+        Computer vision / segmentation-oriented repository focused on image-based processing.
+        A strong project to show AI and data experimentation.
+      </p>
+      <p>
+        <a href="https://github.com/Cesarbmm/Segmentacion-De-Ropa">
+          <img src="https://img.shields.io/badge/View_Repo-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Computer_Vision-4C1D95?style=flat-square" />
+        <img src="https://img.shields.io/badge/Segmentation-9333EA?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI-6D28D9?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🌐 MiniHTTPd</h3>
+      <p>
+        Minimal HTTP server project focused on networking, sockets and server-side behavior.
+        Ideal for showing low-level backend and systems knowledge.
+      </p>
+      <p>
+        <a href="https://github.com/Cesarbmm/minihttpd">
+          <img src="https://img.shields.io/badge/View_Repo-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/C-4C1D95?style=flat-square&logo=c&logoColor=white" />
+        <img src="https://img.shields.io/badge/Sockets-9333EA?style=flat-square" />
+        <img src="https://img.shields.io/badge/Linux-6D28D9?style=flat-square&logo=linux&logoColor=white" />
+      </p>
+    </td>
+  </tr>
 
-### `// GITHUB ANALYTICS`
+  <tr>
+    <td width="50%">
+      <h3>🧩 Data Structures Core</h3>
+      <p>
+        Implementation-focused repository for practicing trees, graphs,
+        memory logic and algorithmic thinking from scratch.
+      </p>
+      <p>
+        <a href="https://github.com/Cesarbmm/PROYECTRO-EXTRA-modificado">
+          <img src="https://img.shields.io/badge/View_Repo-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/C++-4C1D95?style=flat-square&logo=cplusplus&logoColor=white" />
+        <img src="https://img.shields.io/badge/EDA-9333EA?style=flat-square" />
+        <img src="https://img.shields.io/badge/Algorithms-6D28D9?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>⚙️ Sorting & Searching GUI</h3>
+      <p>
+        Visual project for understanding searching and sorting algorithms,
+        combining Java GUI development with algorithm analysis.
+      </p>
+      <p>
+        <a href="https://github.com/Cesarbmm/Proyecto-Busquedas-Ordenamiento">
+          <img src="https://img.shields.io/badge/View_Repo-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-4C1D95?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/GUI-9333EA?style=flat-square" />
+        <img src="https://img.shields.io/badge/Algorithms-6D28D9?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## `// CURRENT_FOCUS`
+
+```bash
+~/learning
+├── artificial-intelligence/
+│   ├── nlp
+│   ├── computer-vision
+│   └── model-evaluation
+├── systems/
+│   ├── linux
+│   ├── sockets
+│   └── distributed-computing
+├── software-engineering/
+│   ├── clean-code
+│   ├── databases
+│   └── backend-design
+└── algorithms/
+    ├── data-structures
+    ├── graph-theory
+    └── optimization
+```
+
+---
+
+## `// GITHUB_ANALYTICS`
 
 <div align="center">
   
@@ -60,19 +223,46 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cesarbmm&layout=compact&theme=tokyonight&hide_border=true&v=1)
 
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Cesarbmm&theme=midnight-purple&hide_border=true&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=E5E7EB" />
+
+</div>
+
+---
+
+## `// CONNECT`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/cesarbmm" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:fonfini123@gmail.com">
+  <img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.youtube.com/@Cesarbmm" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-7C3AED?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/cesarbmm" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:fonfini123@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@Cesarbmm" target="_blank">
-    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=flat-square&logo=youtube&logoColor=white" />
-  </a>
-</div>
+
+```bash
+cesar@github:~$ sudo build --future
+[sudo] password: ********
+Compiling discipline...
+Linking ideas...
+Deploying projects...
+Done.
+```
+
